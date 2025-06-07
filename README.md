@@ -37,7 +37,7 @@ Open these TCP/UDP ports:
 From VPC > Firewall > Create rule:
 
 ```
-Name:       0g-storage-node
+Name:       og-storage-node
 Target:     All instances
 Source:     0.0.0.0/0
 Protocols:  tcp:30333,30334,9000
