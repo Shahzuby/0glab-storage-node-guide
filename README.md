@@ -43,10 +43,12 @@ Source:     0.0.0.0/0
 Protocols:  tcp:30333,30334,9000
             udp:30333,30334,9000
 ```
-Add chain and claim faucets:
+Add chain claim faucets and get RPC:
 Add 0G-Galileo-Testnet chain from here: https://docs.0g.ai/run-a-node/testnet-information
 
 Take faucet: https://faucet.0g.ai/
+
+Get RPC: https://www.astrostake.xyz/0g-status
 
 ---
 
