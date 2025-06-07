@@ -497,6 +497,8 @@ screen -r 0gnode
 tail -f logs/output.log
 ```
 
+check node status: https://chainscan-galileo.bangcode.id/
+
 ---
 
 ## 💰 Incentives
