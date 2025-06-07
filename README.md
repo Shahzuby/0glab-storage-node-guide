@@ -43,6 +43,10 @@ Source:     0.0.0.0/0
 Protocols:  tcp:30333,30334,9000
             udp:30333,30334,9000
 ```
+Add chain and claim faucets:
+Add 0G-Galileo-Testnet chain from here: https://docs.0g.ai/run-a-node/testnet-information
+
+Take faucet: https://faucet.0g.ai/
 
 ---
 
