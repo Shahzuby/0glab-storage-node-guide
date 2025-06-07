@@ -180,7 +180,7 @@ network_boot_nodes = ["/ip4/47.251.117.133/udp/1234/p2p/16Uiu2HAmTVDGNhkHD98zDnJ
 #######################################################################
 
 # RPC endpoint to sync event logs on EVM compatible blockchain.
-blockchain_rpc_endpoint = "https://evmrpc-testnet.0g.ai"
+blockchain_rpc_endpoint = "your_rpc_endpoint"
 
 # Flow contract address to sync event logs.
 log_contract_address = "0xbD75117F80b4E22698D0Cd7612d92BDb8eaff628"
@@ -271,7 +271,7 @@ reward_contract_address = "0xd3D4D91125D76112AE256327410Dd0414Ee08Cb4"
 #
 # Note, the corresponding address should have enough tokens to pay
 # transaction gas fee.
-miner_key = "Your_Wallet_Private_key_Without_0x"
+miner_key = "your_private_key"
 
 # Period for querying mine context on chain (in seconds)
 #
@@ -458,7 +458,7 @@ miner_key = "Your_Wallet_Private_key_Without_0x"
 
 Edit the following fields:
 
-- `network_enr_address = "<your-public-ip>"`
+- `blockchain_rpc_endpoint = "your_rpc_endpoint"`
 - `miner_key = "<64-char private key (no 0x)>"`
 
 ---
@@ -507,4 +507,4 @@ tail -f logs/output.log
 
 ---
 
-Made with ❤️ for the 0G community.
+Made with ❤️ for the https://t.me/andhiiTGkamaii community.
