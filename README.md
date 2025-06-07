@@ -86,7 +86,11 @@ source ~/.bashrc
 
 ```bash
 git clone -b v0.8.7 https://github.com/0glabs/0g-storage-node.git
+```
+```bash
 cd 0g-storage-node
+```
+```bash
 cargo build --release
 ```
 
