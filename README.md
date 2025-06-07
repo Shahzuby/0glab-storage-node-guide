@@ -100,9 +100,11 @@ cargo build --release
 
 ```bash
 rm -rf $HOME/0g-storage-node/run/config.toml
+```
+```bash
 nano config.toml
 ```
-delete all content and paste below conent by holding cntrl+k
+If you found config in nano then delete all content and paste below conent by holding cntrl+k
 
 ```bash
 # This is a TOML config file.
