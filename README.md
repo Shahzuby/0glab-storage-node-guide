@@ -104,7 +104,6 @@ Edit the following fields:
 
 - `network_enr_address = "<your-public-ip>"`
 - `miner_key = "<64-char private key (no 0x)>"`
-- Update contract and RPC values per latest 0G docs
 
 ---
 
