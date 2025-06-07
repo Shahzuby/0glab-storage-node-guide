@@ -103,7 +103,8 @@ cd run
 cp config-testnet.toml config.toml
 nano config.toml
 ```
-delete all content and paste below conent
+delete all content and paste below conent by holding cntrl+k
+
 ```bash
 # This is a TOML config file.
 # For more information, see https://github.com/toml-lang/toml
