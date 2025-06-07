@@ -12,7 +12,7 @@
 | CPU           | 4+ cores    |
 | RAM           | 16 GB+      |
 | SSD           | 500 GB+     |
-| OS            | Ubuntu 22.04|
+| OS            | Ubuntu 24.04|
 | Bandwidth     | 500 Mbps    |
 
 ---
@@ -22,7 +22,7 @@
 1. Go to Google Cloud Console → Compute Engine → VM Instances → Create Instance
 2. Choose:
    - Machine: e2-standard-4 (or higher)
-   - Boot Disk: Ubuntu 22.04 LTS (50GB+)
+   - Boot Disk: Ubuntu 24.04 LTS (500GB+)
    - Allow HTTP/HTTPS
 3. Click “Create”
 
