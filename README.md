@@ -99,12 +99,9 @@ cargo build --release
 ## ⚙️ Step 5: Configure the Node
 
 ```bash
-rm -rf $HOME/0g-storage-node/run/config.toml
-```
-```bash
 nano config.toml
 ```
-If you found config in nano then delete all content and paste below conent by holding cntrl+k
+delete all content and paste below conent by holding cntrl+k
 
 ```bash
 # This is a TOML config file.
