@@ -76,7 +76,7 @@ source ~/.bashrc
 ## 📦 Step 4: Clone and Build 0G Storage Node
 
 ```bash
-git clone -b v0.4.6 https://github.com/0glabs/0g-storage-node.git
+git clone -b v0.8.7 https://github.com/0glabs/0g-storage-node.git
 cd 0g-storage-node
 cargo build --release
 ```
