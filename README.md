@@ -127,20 +127,6 @@ screen -r 0gnode
 
 ---
 
-## 🔁 Step 7: Auto Restart on Reboot
-
-```bash
-crontab -e
-```
-
-Add this line:
-
-```bash
-@reboot screen -dmS 0gnode bash -c 'cd ~/0g-storage-node/run && ../target/release/zgs_node --config config.toml --miner-key <your_private_key>'
-```
-
----
-
 ## 🧪 Monitoring
 
 ```bash
