@@ -115,6 +115,8 @@ Edit the following fields:
 - `blockchain_rpc_endpoint = "your_rpc_endpoint"`
 - `miner_key = "<64-char private key (no 0x)>"`
 
+And save with cntl+x-y-enter 
+
 ---
 Create a Systemd Service File
 ```bash
