@@ -5,15 +5,15 @@
 
 ---
 
-## 🧱 System Requirements
+## 🧱 System Requirements for better transactions 
 
-| Component     | Recommended |
-|---------------|-------------|
-| CPU           | 4+ cores    |
-| RAM           | 16 GB+      |
-| SSD           | 500 GB+     |
-| OS            | Ubuntu 24.04|
-| Bandwidth     | 500 Mbps    |
+| Component     | Recommended   |
+|---------------|-------------  |
+| CPU           | 8+ cores      |
+| RAM           | 32GB+         |
+| SSD           | 500GB NVME    |
+| OS            | Ubuntu 24.04  |
+| Bandwidth     | 500 Mbps      |
 
 ---
 
